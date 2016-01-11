@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_info>
+<name>Anand</name>
+ <rolllno>1000</rollno>
+ <age>22</age>
+ <gender>m</gender> 
+<name>Anandu</name>
+ <rolllno>1001</rollno>
+ <age>22</age>
+ <gender>m</gender> 
+<name>Anandi</name>
+ <rolllno>1002</rollno>
+ <age>22</age>
+ <gender>f</gender> 
+<name>Anandan</name>
+ <rolllno>1003</rollno>
+ <age>22</age>
+ <gender>m</gender>
+<name>Anand_k</name>
+ <rolllno>1004</rollno>
+ <age>21</age>
+ <gender>m</gender> 
+<name>Anandan_k</name>
+ <rolllno>1005</rollno>
+ <age>21</age>
+ <gender>m</gender> 
+<name>Anandi_k</name>
+ <rolllno>1006</rollno>
+ <age>21</age>
+ <gender>f</gender>
+<name>Ajith</name>
+ <rolllno>1007</rollno>
+ <age>20</age>
+ <gender>m</gender> 
+<name>Ajitha</name>
+ <rolllno>1008</rollno>
+ <age>20</age>
+ <gender>m</gender> 
+<name>Ajith_k</name>
+ <rolllno>1009</rollno>
+ <age>21</age>
+ <gender>m</gender> 
+<name>Ajitha_k</name>
+ <rolllno>1010</rollno>
+ <age>20</age>
+ <gender>m</gender> 
+<name>Ajay</name>
+ <rolllno>1011</rollno>
+ <age>20</age>
+ <gender>m</gender> 
+<name>Ajay_K</name>
+ <rolllno>1012</rollno>
+ <age>22</age>
+ <gender>m</gender> 
+<name>Ajayan</name>
+ <rolllno>1013</rollno>
+ <age>23</age>
+ <gender>m</gender> 
+<name>Ajayan_k</name>
+ <rolllno>1014</rollno>
+ <age>23</age>
+ <gender>m</gender> 
+<name>jhon</name>
+ <rolllno>1015</rollno>
+ <age>20</age>
+ <gender>m</gender> 
+<name>jhon_s</name>
+ <rolllno>1016</rollno>
+ <age>20</age>
+ <gender>m</gender>
+<name>jhon_smith</name>
+ <rolllno>1017</rollno>
+ <age>22</age>
+ <gender>m</gender> 
+<name>jhony</name>
+ <rolllno>1018</rollno>
+ <age>23</age>
+ <gender>m</gender> 
+<name>janardhanan</name>
+ <rollno>1019</rollno>
+ <age>20</age>
+ <gender>m</gender>
+</student_info>
