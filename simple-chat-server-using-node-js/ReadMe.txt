@@ -8,6 +8,4 @@ After that run the code from the folder directory by
 
   $ nodejs chat.js
   
-Now open your web browser and enter this address on your address bar 192.168.0.4:8000. 
-*in my code server is set as 192.168.0.4 you can change it on the client.html file, there is line called ïo.connect(socket address).
-*Also the port address is set as 8000
+Now open your web browser and enter this address on your address bar 127.0.0.1:8000(or any ip that in your connected).
